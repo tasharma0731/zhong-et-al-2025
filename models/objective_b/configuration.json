@@ -1,0 +1,52 @@
+{
+  "alphas": [
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0
+  ],
+  "anchor": "last full-derived before-learning W20 population state",
+  "areas": [
+    "mHV",
+    "aHV"
+  ],
+  "candidate_count": 26,
+  "created_utc": "2026-07-24T05:43:43.183023+00:00",
+  "feature_variants": [
+    "session_only",
+    "dual_full",
+    "dual_full_svd",
+    "dual_full_svd_behavior"
+  ],
+  "full_cache": "modeling/cache/full_neural_objective_b_w20.npz",
+  "full_cache_sha256": "4c7e59d7e0ca98f05b45166626cfef5aebb6cb9afa7a4fbf9abd71ac7c7aa43e",
+  "horizons": [
+    0,
+    1
+  ],
+  "metrics": [
+    "q05",
+    "median",
+    "q95",
+    "sd_dprime",
+    "frac_leaf_selective",
+    "frac_circle_selective"
+  ],
+  "model_version": "boundary_population_forecaster_v1",
+  "numpy": "2.4.6",
+  "pandas": "2.3.3",
+  "prediction_target": "six area-level d-prime distribution statistics in first and second after-learning W20",
+  "python": "3.12.13",
+  "randomness": "none",
+  "refined_cache": "modeling/cache/refined_neuron_transitions_w20.npz",
+  "refined_cache_sha256": "26089d755d5f7fdca7be0f24d57a4f8238a6a19dbe92d1dabe16e358845d6e9d",
+  "result_schema_version": 1,
+  "run_id": "run_20260724_direct_boundary_v1",
+  "scikit_learn": "1.6.0",
+  "selection_rule": "minimum_cv",
+  "training_cohort": "unsupervised",
+  "transfer_cohort": "supervised",
+  "window_pairs_per_role": 20
+}

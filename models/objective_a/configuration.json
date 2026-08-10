@@ -1,0 +1,41 @@
+{
+  "areas": [
+    "V1",
+    "mHV",
+    "lHV",
+    "aHV"
+  ],
+  "metrics": [
+    "q05",
+    "median",
+    "q95",
+    "sd_dprime",
+    "frac_leaf_selective",
+    "frac_circle_selective"
+  ],
+  "training_cohort": "unsupervised",
+  "transfer_cohort": "supervised",
+  "bootstrap_repeats": 10000,
+  "random_seed": 2025,
+  "session_summary": "modeling/window_histories/session_dprime_trial_balanced.csv",
+  "session_summary_sha256": "d7a54cbd497b966c171923861ee7e253541f4c6d87a0e30804f9c5b743a4bf93",
+  "cv_unit": "mouse",
+  "cross_day_estimand": "trial-balanced full-session population summary",
+  "target_transform": "ordered quantiles + log SD + 3-part fraction composition",
+  "models": {
+    "cross_day": [
+      "exposure_shift"
+    ]
+  },
+  "runtime": {
+    "python": "3.12.13",
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "dependencies": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.6.0",
+      "joblib": "1.5.3",
+      "duckdb": "1.5.4"
+    }
+  }
+}

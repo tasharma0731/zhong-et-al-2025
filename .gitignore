@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+
+# Environments and local configuration
+.env
+.env.*
+.venv/
+venv/
+.python-version
+.idea/
+.vscode/
+
+# Notebook and OS state
+.ipynb_checkpoints/
+*.ipynb.bak
+.DS_Store
+.matplotlib/
+
+# Local data products
+data/
+*.duckdb
+*.duckdb.wal
+*.npy
+*.npz
+*.joblib
+*.pkl
+*.pickle
+*.part
+*.log
+
+# The only serialized models intentionally published in this repository.
+!models/objective_a/fitted_exposure_shift_models.joblib
+!models/objective_b/fitted_boundary_population_models.joblib
+
+# Reproduction outputs and caches
+modeling/cache/
+modeling/**/cache/
+modeling/runs/
+modeling/**/runs/
+notebooks/results/
+notebooks/*.html

@@ -1,0 +1,5 @@
+area,horizon,selection_rule,selected_candidate,selected_feature_variant,selected_alpha,best_mean_nrmse,best_sem_nrmse,horizon_label
+aHV,0,minimum_cv,mean_shift,mean_shift,,0.6989871390092517,0.06453642288768946,first after W20
+aHV,1,minimum_cv,dual_full_svd__alpha_100,dual_full_svd,100.0,0.9163480090786275,0.37199020258425963,second after W20
+mHV,0,minimum_cv,mean_shift,mean_shift,,0.9286533180704379,0.14026282733592277,first after W20
+mHV,1,minimum_cv,session_only__alpha_1000,session_only,1000.0,0.8534628014583654,0.11177431912305337,second after W20

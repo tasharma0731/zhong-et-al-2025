@@ -1,0 +1,10 @@
+task,model,contrast,mice,mean_log_skill_difference,bootstrap_95_low,bootstrap_95_high,all_mice_mHV_skill_greater,exact_two_sided_pvalue,permutations
+cross_day,exposure_shift,mHV_minus_aHV_log_skill_vs_persistence,4,0.2500200809402472,0.17438566861058827,0.32565449326990603,True,0.125,16
+cross_day,ridge_delta,mHV_minus_aHV_log_skill_vs_persistence,4,0.2584989992021462,0.1817127239029777,0.3352852745013146,True,0.125,16
+cross_day,ridge_delta_behavior,mHV_minus_aHV_log_skill_vs_persistence,4,0.2585127297556754,0.18196437093976991,0.3350610885715809,True,0.125,16
+cross_day,training_mean,mHV_minus_aHV_log_skill_vs_persistence,4,0.4014102570748812,0.1961552514373342,0.6892706746171621,True,0.125,16
+next_window,ridge_level,mHV_minus_aHV_log_skill_vs_persistence,4,0.019916215131012896,-0.1912602155070905,0.2514234073936873,False,0.875,16
+next_window,ridge_level_behavior,mHV_minus_aHV_log_skill_vs_persistence,4,-0.017192842349317367,-0.19283227134187741,0.17442522460876336,False,0.625,16
+next_window,ridge_window_delta,mHV_minus_aHV_log_skill_vs_persistence,4,-0.12597418738683197,-0.22345841259615012,-0.028489962177513838,False,0.25,16
+next_window,ridge_window_delta_behavior,mHV_minus_aHV_log_skill_vs_persistence,4,-0.16987202623646963,-0.26439556248434354,-0.0753484899885957,False,0.125,16
+next_window,transition_shift,mHV_minus_aHV_log_skill_vs_persistence,4,0.000541037511465958,-0.013097263416644543,0.014179338439576458,False,1.0,16

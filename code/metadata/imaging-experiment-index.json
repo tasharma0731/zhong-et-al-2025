@@ -1,0 +1,3758 @@
+{
+  "experiments": {
+    "naive_test1": [
+      {
+        "recording_id": "TX108_2023_01_05_2",
+        "retinotopy_id": "TX108_2023_01_05",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2023_01_05",
+          "depth": [
+            250,
+            210
+          ],
+          "is2p": 1,
+          "mname": "TX108",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1",
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_03_16_1",
+        "retinotopy_id": "TX109_2023_03_16",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_16",
+          "depth": [
+            250,
+            210
+          ],
+          "is2p": 1,
+          "mname": "TX109",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1",
+          "stim_id": [
+            2,
+            3,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_12_1",
+        "retinotopy_id": "TX119_2023_12_12",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_12",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_18_1",
+        "retinotopy_id": "TX123_2023_12_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf0_swap1,leaf0_swap2,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            null,
+            2.0,
+            null,
+            null,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_23_1",
+        "retinotopy_id": "TX124_2023_12_23",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_23",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            null,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_15_1",
+        "retinotopy_id": "LZ13_2024_05_15",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_15",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_16_2",
+        "retinotopy_id": "LZ13_2024_05_16",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_16",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 2,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_18_2",
+        "retinotopy_id": "LZ16_2024_05_18",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            null,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_19_1",
+        "retinotopy_id": "LZ16_2024_05_19",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_19",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 2,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_18_1",
+        "retinotopy_id": "TX139_2024_05_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX140_2024_05_31_1",
+        "retinotopy_id": "TX140_2024_05_31",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX140",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      }
+    ],
+    "naive_test2": [
+      {
+        "recording_id": "TX119_2023_12_12_1",
+        "retinotopy_id": "TX119_2023_12_12",
+        "source": {
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_12",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_18_1",
+        "retinotopy_id": "TX123_2023_12_18",
+        "source": {
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf0_swap1,leaf0_swap2,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            null,
+            null,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_23_1",
+        "retinotopy_id": "TX124_2023_12_23",
+        "source": {
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_23",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_15_1",
+        "retinotopy_id": "LZ13_2024_05_15",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_15",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_18_2",
+        "retinotopy_id": "LZ16_2024_05_18",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_18_1",
+        "retinotopy_id": "TX139_2024_05_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX140_2024_05_31_1",
+        "retinotopy_id": "TX140_2024_05_31",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX140",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      }
+    ],
+    "naive_test3": [
+      {
+        "recording_id": "TX119_2023_12_13_1",
+        "retinotopy_id": "TX119_2023_12_13",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_13",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_13_1",
+        "retinotopy_id": "TX119_2023_12_13",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_13",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 2,
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_18_1",
+        "retinotopy_id": "TX123_2023_12_18",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf0_swap1,leaf0_swap2,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            5.0,
+            null,
+            3.0,
+            null
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_18_1",
+        "retinotopy_id": "TX123_2023_12_18",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 2,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf0_swap1,leaf0_swap2,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            null,
+            6.0,
+            3.0,
+            null
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_20_1",
+        "retinotopy_id": "TX123_2023_12_20",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_20",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 3,
+          "stim": "rock0, brick0, brick1, brick0_swap1, brick0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_20_1",
+        "retinotopy_id": "TX123_2023_12_20",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_20",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 4,
+          "stim": "rock0, brick0, brick1, brick0_swap1, brick0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_24_1",
+        "retinotopy_id": "TX124_2023_12_24",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_24",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cell0, leaf0, leaf1, leaf0_swap1, leaf0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_24_1",
+        "retinotopy_id": "TX124_2023_12_24",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_24",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 2,
+          "stim": "cell0, leaf0, leaf1, leaf0_swap1, leaf0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_26_1",
+        "retinotopy_id": "TX124_2023_12_26",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_26",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0, brick0, brick1, brick0_swap1, brick0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX124_2023_12_26_1",
+        "retinotopy_id": "TX124_2023_12_26",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_26",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "naive",
+          "is2p": 1,
+          "mname": "TX124",
+          "rewType": "None",
+          "sess#": 2,
+          "stim": "rock0, brick0, brick1, brick0_swap1, brick0_swap2",
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      }
+    ],
+    "sup_test1": [
+      {
+        "recording_id": "TX60_2021_06_07_1",
+        "retinotopy_id": "TX60_2021_06_07",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_07",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX61_2021_06_07_2",
+        "retinotopy_id": "TX61_2021_06_07",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2021_06_07",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_03_25_1",
+        "retinotopy_id": "TX108_2023_03_25",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_25",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "active after cue",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_04_18_1",
+        "retinotopy_id": "TX109_2023_04_18",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_18",
+          "depth": [
+            250,
+            210
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "Active after cue",
+          "sess#": 1,
+          "stim_id": [
+            2,
+            3,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "recording_id": "VR2_2021_04_11_1",
+        "retinotopy_id": "VR2_2021_04_11",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_11",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ],
+    "sup_test2": [
+      {
+        "recording_id": "TX60_2021_06_22_1",
+        "retinotopy_id": "TX60_2021_06_22",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_22",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX61_2021_06_20_1",
+        "retinotopy_id": "TX61_2021_06_20",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_20",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_04_04_1",
+        "retinotopy_id": "TX108_2023_04_04",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_04",
+          "depth": [
+            250,
+            210
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "Active after cue",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_05_13_1",
+        "retinotopy_id": "TX109_2023_05_13",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_05_13",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "active after cue",
+          "sess#": 1,
+          "stim_id": [
+            2,
+            3,
+            4,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "recording_id": "VR2_2021_04_29_1",
+        "retinotopy_id": "VR2_2021_04_29",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_29",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      }
+    ],
+    "sup_test3": [
+      {
+        "recording_id": "TX61_2021_06_23_1",
+        "retinotopy_id": "TX61_2021_06_23",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_23",
+          "exptype": "sup",
+          "is2p": 1,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            5,
+            3
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX61_2021_06_25_1",
+        "retinotopy_id": "TX61_2021_06_25",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_25",
+          "exptype": "sup",
+          "is2p": 1,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            6,
+            3
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX108_2023_04_07_1",
+        "retinotopy_id": "TX108_2023_04_07",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_07",
+          "exptype": "sup",
+          "is2p": 1,
+          "mname": "TX108",
+          "rewType": "Active after cue",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            6,
+            3
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "VR2_2021_05_04_1",
+        "retinotopy_id": "VR2_2021_05_04",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_05_04",
+          "exptype": "sup",
+          "is2p": 1,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            5,
+            3
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "VR2_2021_05_06_1",
+        "retinotopy_id": "VR2_2021_05_06",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_05_06",
+          "exptype": "sup",
+          "is2p": 1,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            6,
+            3
+          ],
+          "stimtype": "swap2"
+        }
+      }
+    ],
+    "sup_train1_after_learning": [
+      {
+        "recording_id": "VR2_2021_04_06_1",
+        "retinotopy_id": "VR2_2021_04_06",
+        "source": {
+          "Gender": "Male",
+          "Note": "1-no cue in non-reward corridor",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_06",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX60_2021_05_04_1",
+        "retinotopy_id": "TX60_2021_05_04",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_05_04",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_03_22_1",
+        "retinotopy_id": "TX108_2023_03_22",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_22",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "active after cue",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_04_07_1",
+        "retinotopy_id": "TX109_2023_04_07",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_07",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "active after cue",
+          "sess#": 1,
+          "stim_id": [
+            2,
+            0
+          ]
+        }
+      }
+    ],
+    "sup_train1_before_learning": [
+      {
+        "recording_id": "VR2_2021_03_20_1",
+        "retinotopy_id": "VR2_2021_03_20",
+        "source": {
+          "Gender": "Male",
+          "Note": "1-no cue in non-reward corridor",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_03_20",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX60_2021_04_10_1",
+        "retinotopy_id": "TX60_2021_04_10",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_10",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_03_13_1",
+        "retinotopy_id": "TX108_2023_03_13",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_13",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "Passive",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_03_27_1",
+        "retinotopy_id": "TX109_2023_03_27",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_27",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "Passive",
+          "sess#": 0,
+          "stim_id": [
+            2,
+            0
+          ]
+        }
+      }
+    ],
+    "sup_train2_after_learning": [
+      {
+        "recording_id": "TX60_2021_06_21_1",
+        "retinotopy_id": "TX60_2021_06_21",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_21",
+          "days": 10,
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX61_2021_06_19_1",
+        "retinotopy_id": "TX61_2021_06_19",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_19",
+          "days": 8,
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_04_01_1",
+        "retinotopy_id": "TX108_2023_04_01",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_01",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "active after cue",
+          "sess#": 6,
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_05_12_1",
+        "retinotopy_id": "TX109_2023_05_12",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_05_12",
+          "days": 15,
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "active after cue",
+          "stim_id": [
+            2,
+            3,
+            0
+          ]
+        }
+      },
+      {
+        "recording_id": "VR2_2021_04_28_1",
+        "retinotopy_id": "VR2_2021_04_28",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_28",
+          "days": 9,
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      }
+    ],
+    "sup_train2_before_learning": [
+      {
+        "recording_id": "TX60_2021_06_07_1",
+        "retinotopy_id": "TX60_2021_06_07",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2021_06_07",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX60",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX61_2021_06_07_2",
+        "retinotopy_id": "TX61_2021_06_07",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2021_06_07",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX61",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX108_2023_03_25_1",
+        "retinotopy_id": "TX108_2023_03_25",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_03_25",
+          "depth": [
+            200,
+            240
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX108",
+          "rewType": "active after cue",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX109_2023_04_18_1",
+        "retinotopy_id": "TX109_2023_04_18",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_04_18",
+          "depth": [
+            250,
+            210
+          ],
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX109",
+          "rewType": "Active after cue",
+          "sess#": 1,
+          "stim_id": [
+            2,
+            3,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "recording_id": "VR2_2021_04_11_1",
+        "retinotopy_id": "VR2_2021_04_11",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "artLick": 1,
+          "blk": "1",
+          "datexp": "2021_04_11",
+          "exptype": "sup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "VR2",
+          "rewType": "Passive",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ],
+    "test1_after_grating": [
+      {
+        "recording_id": "LZ13_2024_05_28_1",
+        "retinotopy_id": "LZ13_2024_05_28",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_28",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_29_1",
+        "retinotopy_id": "LZ13_2024_05_29",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_29",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_31_2",
+        "retinotopy_id": "LZ16_2024_05_31",
+        "source": {
+          "2pblk": [
+            "1",
+            2
+          ],
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            null,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_06_01_1",
+        "retinotopy_id": "LZ16_2024_06_01",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_06_01",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_31_1",
+        "retinotopy_id": "TX139_2024_05_31",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      }
+    ],
+    "test1_before_grating": [
+      {
+        "recording_id": "LZ13_2024_05_15_1",
+        "retinotopy_id": "LZ13_2024_05_15",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_15",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_16_2",
+        "retinotopy_id": "LZ13_2024_05_16",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_16",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_18_2",
+        "retinotopy_id": "LZ16_2024_05_18",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            null,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_19_1",
+        "retinotopy_id": "LZ16_2024_05_19",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_19",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_18_1",
+        "retinotopy_id": "TX139_2024_05_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            null
+          ]
+        }
+      }
+    ],
+    "test2_after_grating": [
+      {
+        "recording_id": "LZ13_2024_05_28_1",
+        "retinotopy_id": "LZ13_2024_05_28",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_28",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_29_1",
+        "retinotopy_id": "LZ13_2024_05_29",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_29",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_31_2",
+        "retinotopy_id": "LZ16_2024_05_31",
+        "source": {
+          "2pblk": [
+            "1",
+            2
+          ],
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_06_01_1",
+        "retinotopy_id": "LZ16_2024_06_01",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_06_01",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_31_1",
+        "retinotopy_id": "TX139_2024_05_31",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      }
+    ],
+    "test2_before_grating": [
+      {
+        "recording_id": "LZ13_2024_05_15_1",
+        "retinotopy_id": "LZ13_2024_05_15",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_15",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_16_2",
+        "retinotopy_id": "LZ13_2024_05_16",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_16",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_18_2",
+        "retinotopy_id": "LZ16_2024_05_18",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_19_1",
+        "retinotopy_id": "LZ16_2024_05_19",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_19",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_18_1",
+        "retinotopy_id": "TX139_2024_05_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "is2p": 1,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            3.0,
+            4.0
+          ]
+        }
+      }
+    ],
+    "train1_after_grating": [
+      {
+        "recording_id": "LZ13_2024_05_28_1",
+        "retinotopy_id": "LZ13_2024_05_28",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_28",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_29_1",
+        "retinotopy_id": "LZ13_2024_05_29",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_29",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_31_2",
+        "retinotopy_id": "LZ16_2024_05_31",
+        "source": {
+          "2pblk": [
+            "1",
+            2
+          ],
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_06_01_1",
+        "retinotopy_id": "LZ16_2024_06_01",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_06_01",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_31_1",
+        "retinotopy_id": "TX139_2024_05_31",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_31",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 1,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      }
+    ],
+    "train1_before_grating": [
+      {
+        "recording_id": "LZ13_2024_05_15_1",
+        "retinotopy_id": "LZ13_2024_05_15",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_15",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ13_2024_05_16_2",
+        "retinotopy_id": "LZ13_2024_05_16",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_16",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ13",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_18_2",
+        "retinotopy_id": "LZ16_2024_05_18",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,circle2,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "LZ16_2024_05_19_1",
+        "retinotopy_id": "LZ16_2024_05_19",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_19",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "LZ16",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "rock0,rock1,brick0,brick1,brick5",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "recording_id": "TX139_2024_05_18_1",
+        "retinotopy_id": "TX139_2024_05_18",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_05_18",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX139",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "cirlce0,circle1,leaf0,leaf1,leaf2",
+          "stim_id": [
+            0.0,
+            null,
+            2.0,
+            null,
+            null
+          ]
+        }
+      }
+    ],
+    "unsup_test1": [
+      {
+        "recording_id": "TX83_2022_08_31_1",
+        "retinotopy_id": "TX83_2022_08_31",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_08_31",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX83",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX88_2022_06_20_1",
+        "retinotopy_id": "TX88_2022_06_20",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_06_20",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_10_21_1",
+        "retinotopy_id": "TX105_2022_10_21",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_21",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_24_1",
+        "retinotopy_id": "TX119_2023_12_24",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_24",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_03_1",
+        "retinotopy_id": "TX123_2024_01_03",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_03",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_21_1",
+        "retinotopy_id": "DR10_2022_07_21",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_21",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_10_20_1",
+        "retinotopy_id": "DR15_2022_10_20",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_20",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ],
+    "unsup_test2": [
+      {
+        "recording_id": "TX88_2022_07_19_1",
+        "retinotopy_id": "TX88_2022_07_19",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_19",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_11_08_1",
+        "retinotopy_id": "TX105_2022_11_08",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_11_08",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2024_01_07_1",
+        "retinotopy_id": "TX119_2024_01_07",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_07",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_16_1",
+        "retinotopy_id": "TX123_2024_01_16",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_16",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_29_1",
+        "retinotopy_id": "DR10_2022_07_29",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_29",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_11_03_2",
+        "retinotopy_id": "DR15_2022_11_03",
+        "source": {
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2022_11_03",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2,
+            3,
+            4
+          ]
+        }
+      }
+    ],
+    "unsup_test3": [
+      {
+        "recording_id": "TX88_2022_07_22_1",
+        "retinotopy_id": "TX88_2022_07_22",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_22",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 2,
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX88_2022_07_22_1",
+        "retinotopy_id": "TX88_2022_07_22",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_22",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 2,
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_30_1",
+        "retinotopy_id": "DR10_2022_07_30",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_30",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_30_1",
+        "retinotopy_id": "DR10_2022_07_30",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_30",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX119_2024_01_09_1",
+        "retinotopy_id": "TX119_2024_01_09",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_09",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX119_2024_01_09_1",
+        "retinotopy_id": "TX119_2024_01_09",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_09",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 2,
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_17_1",
+        "retinotopy_id": "TX123_2024_01_17",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_17",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0.0,
+            2.0,
+            5.0,
+            null,
+            3.0
+          ],
+          "stimtype": "swap1"
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_17_1",
+        "retinotopy_id": "TX123_2024_01_17",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_17",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 2,
+          "stim_id": [
+            0.0,
+            2.0,
+            null,
+            6.0,
+            3.0
+          ],
+          "stimtype": "swap2"
+        }
+      }
+    ],
+    "unsup_train1_after_learning": [
+      {
+        "recording_id": "TX83_2022_08_29_1",
+        "retinotopy_id": "TX83_2022_08_29",
+        "source": {
+          "Gender": "Female",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_08_29",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX83",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX88_2022_06_17_2",
+        "retinotopy_id": "TX88_2022_06_17",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2022_06_17",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_10_19_2",
+        "retinotopy_id": "TX105_2022_10_19",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2022_10_19",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX104_2022_10_20_1",
+        "retinotopy_id": "TX104_2022_10_20",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_20",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX104",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_23_1",
+        "retinotopy_id": "TX119_2023_12_23",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_23",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_02_1",
+        "retinotopy_id": "TX123_2024_01_02",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_02",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_19_1",
+        "retinotopy_id": "DR10_2022_07_19",
+        "source": {
+          "Note": "close loop VR",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_19",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_10_19_1",
+        "retinotopy_id": "DR15_2022_10_19",
+        "source": {
+          "Note": "close loop VR",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_19",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX85_2022_06_17_1",
+        "retinotopy_id": "TX85_2022_06_17",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_06_17",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX85",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      }
+    ],
+    "unsup_train1_before_learning": [
+      {
+        "recording_id": "TX83_2022_08_17_1",
+        "retinotopy_id": "TX83_2022_08_17",
+        "source": {
+          "Gender": "Female",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_08_17",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX83",
+          "rewType": "None",
+          "sess#": 0,
+          "stim": "VR move when run",
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX88_2022_06_13_2",
+        "retinotopy_id": "TX88_2022_06_13",
+        "source": {
+          "2pblk": [
+            "2",
+            1
+          ],
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2022_06_13",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_10_08_2",
+        "retinotopy_id": "TX105_2022_10_08",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "2",
+          "datexp": "2022_10_08",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX104_2022_10_12_1",
+        "retinotopy_id": "TX104_2022_10_12",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_12",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX104",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_14_1",
+        "retinotopy_id": "TX119_2023_12_14",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_14",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2023_12_21_1",
+        "retinotopy_id": "TX123_2023_12_21",
+        "source": {
+          "Gender": "Male",
+          "Note": "VR move when run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_21",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_12_1",
+        "retinotopy_id": "DR10_2022_07_12",
+        "source": {
+          "Note": "VR move when non-run",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_12",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_10_09_1",
+        "retinotopy_id": "DR15_2022_10_09",
+        "source": {
+          "Note": "close loop VR",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_09",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "recording_id": "TX85_2022_06_14_1",
+        "retinotopy_id": "TX85_2022_06_14",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_06_14",
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX85",
+          "rewType": "None",
+          "sess#": 0,
+          "stim_id": [
+            0,
+            2
+          ]
+        }
+      }
+    ],
+    "unsup_train2_after_learning": [
+      {
+        "recording_id": "TX88_2022_07_15_1",
+        "retinotopy_id": "TX88_2022_07_15",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_15",
+          "days": 7,
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_11_05_1",
+        "retinotopy_id": "TX105_2022_11_05",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_11_05",
+          "days": 13,
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2024_01_06_1",
+        "retinotopy_id": "TX119_2024_01_06",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_06",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 10,
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_15_1",
+        "retinotopy_id": "TX123_2024_01_15",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_15",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 12,
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_28_1",
+        "retinotopy_id": "DR10_2022_07_28",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_28",
+          "days": 6,
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_11_02_1",
+        "retinotopy_id": "DR15_2022_11_02",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_11_02",
+          "days": 9,
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "stim_id": [
+            0,
+            2,
+            3
+          ]
+        }
+      }
+    ],
+    "unsup_train2_before_learning": [
+      {
+        "recording_id": "TX88_2022_06_20_1",
+        "retinotopy_id": "TX88_2022_06_20",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_06_20",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX88",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      },
+      {
+        "recording_id": "TX105_2022_10_21_1",
+        "retinotopy_id": "TX105_2022_10_21",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_21",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX105",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX119_2023_12_24_1",
+        "retinotopy_id": "TX119_2023_12_24",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2023_12_24",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX119",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "TX123_2024_01_03_1",
+        "retinotopy_id": "TX123_2024_01_03",
+        "source": {
+          "Gender": "Male",
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2024_01_03",
+          "depth": [
+            240,
+            200
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 0,
+          "mname": "TX123",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR10_2022_07_21_1",
+        "retinotopy_id": "DR10_2022_07_21",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_07_21",
+          "depth": [
+            250,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR10",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "recording_id": "DR15_2022_10_20_1",
+        "retinotopy_id": "DR15_2022_10_20",
+        "source": {
+          "ROIdir": [],
+          "blk": "1",
+          "datexp": "2022_10_20",
+          "depth": [
+            240,
+            100
+          ],
+          "exptype": "unsup",
+          "is2p": 1,
+          "isDR": 1,
+          "mname": "DR15",
+          "rewType": "None",
+          "sess#": 1,
+          "stim_id": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ]
+  },
+  "schema_version": 1,
+  "source": {
+    "article_id": 28811129,
+    "article_version": 2,
+    "file_id": 54183854,
+    "file_name": "Imaging_Exp_info.npy",
+    "md5": "2259b9e5a6cea8987d871c7fbe90a8f9",
+    "sha256": "69756688e06fd60843b8aff988c2191f7719ec5a66d3660aee550a2ee2a26c56",
+    "size_bytes": 21194
+  },
+  "summary": {
+    "associations": 142,
+    "experiment_labels": 23,
+    "unique_mice": 19,
+    "unique_recordings": 89
+  }
+}
