@@ -7,6 +7,26 @@ Analysis code for the Zhong et al. dataset, including:
 - the Objective B boundary model; and
 - analysis notebooks.
 
+## My contribution
+
+This is my fork of a Neuromatch Academy Computational Neuroscience team project
+(Pod: Tokoloshe Black Cumin). My individual analysis and code are in
+[`notebooks/tanya.ipynb`](notebooks/tanya.ipynb), covering:
+
+- Data wrangling and neural/behavioural frame alignment
+- Descriptive statistics (median, standard deviation, skewness, selectivity
+  fraction) of d′ distributions across supervised and unsupervised
+  conditions, computed per-session and per-window across two visual cortex
+  regions (V1, mHV)
+- Control-variable design, including neuron-count subsampling and
+  trial-fraction binning
+- The `dprime_animation_by_group.py` animation script, visualising d′
+  distribution shifts across sliding trial windows, used in the team's
+  final presentation
+
+The full team pipeline below (data-access layer, GAMM-based trajectory
+modelling, Objective A/B forecasting) was built by other team members and
+consolidated by [Shibasis Patnaik](https://github.com/shibasis0801).
 ## Repository map
 
 | Path | Contents |
