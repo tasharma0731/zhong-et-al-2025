@@ -27,6 +27,7 @@ This is my fork of a Neuromatch Academy Computational Neuroscience team project
 The full team pipeline below (data-access layer, GAMM-based trajectory
 modelling, Objective A/B forecasting) was built by other team members and
 consolidated by [Shibasis Patnaik](https://github.com/shibasis0801).
+
 ## Repository map
 
 | Path | Contents |
